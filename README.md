@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Luna Aljammal</h1>
 <h3 align="center">Software Engineering Student @ McMaster University</h3>
 
- 🌱 I’m currently learning **Google Cloud's Big Data and Machine Learning Fundamentals**, including modernizing data lakes and warehouses, building batch data pipelines, and creating resilient streaming analytics systems.
- 🔭 I’m currently on a summer internship term as a **Software Developer** at Imperial Lifestyle Management.
+- 🌱 I’m currently learning **Google Cloud's Big Data and Machine Learning Fundamentals**, including modernizing data lakes and warehouses, building batch data pipelines, and creating resilient streaming analytics systems.
+- 🔭 I’m currently on a summer internship term as a **Software Developer** at Imperial Lifestyle Management.
 
 <h3 align="left">Languages:</h3>
 <p align="left">
